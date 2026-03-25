@@ -1,0 +1,311 @@
+order_id,salesperson,category,city,region,units_sold,unit_price,total_amount,payment_method,order_date
+ORD0001,priya,Clothing,Delhi,North,,,,Prepaid,20/05/2024
+ORD0002,Divya ,Home,Chennai,South,,,,Prepaid,14/10/2024
+ORD0003,Priya,Furniture,Pune,West,11,937,10307,Wallet,22/05/2024
+ORD0004,Sara,Home,Kolkata,East,3,4622,13866,COD,"August 23, 2024"
+ORD0005,Rahul ,Electronics,Chennai,South,8,927,7416,Prepaid,24/01/2024
+ORD0006,ARJUN,Sports,Patna,East,6,4475,26850,Wallet,04-17-2024
+ORD0007,arjun,Furniture,Hyderabad,South,11,3386,37246,Wallet,29/01/2024
+ORD0008,Meera,Food,Bhubaneswar,East,15,1270,19050,COD,01-Dec-2024
+ORD0009,sara,Sports,Surat,West,16,844,13504,Prepaid,04/07/2024
+ORD0010,Vijay,,Mumbai,West,9,4632,41688,Wallet,16-Jul-2024
+ORD0011,MEERA,Clothing,Patna,East,15,126,1890,Wallet,02-27-2024
+ORD0012,Divya,Sports,Chennai,South,7,1352,9464,Wallet,11-16-2024
+ORD0013,Sara,Books,Lucknow,North,10,2061,20610,Prepaid,2024-09-07
+ORD0014,sara,Food,Mumbai,West,16,4603,73648,Prepaid,29/09/2024
+ORD0015,Vijay,Sports,Hyderabad,South,,,,Wallet,07-23-2024
+ORD0016,arjun,Clothing,Bangalore,South,3,357,1071,Wallet,2024-01-04
+ORD0017,vijay,Clothing,Ahmedabad,West,16,3434,54944,COD,03/10/2024
+ORD0018,arjun,Home,Surat,West,11,995,10945,COD,2024-01-28
+ORD0019,ARJUN,Home,Hyderabad,South,18,902,16236,Prepaid,24/08/2024
+ORD0020,vijay,,Bangalore,South,13,580,7540,COD,27-Jul-2024
+ORD0021,vijay,Clothing,Guwahati,East,7,2530,17710,Prepaid,"December 22, 2024"
+ORD0022,vijay,Sports,Kolkata,East,17,1389,23613,Prepaid,"January 26, 2024"
+ORD0023,priya,Sports,Chandigarh,North,20,425,8500,Wallet,2024-07-25
+ORD0024,priya,Books,Patna,East,13,1172,15236,Prepaid,04-14-2024
+ORD0025,Sara,Electronics,Jaipur,North,18,1846,33228,Prepaid,"November 14, 2024"
+ORD0026,Vijay,Furniture,Hyderabad,South,18,2578,46404,Prepaid,25/05/2024
+ORD0027,Sara,Electronics,Kolkata,East,18,1373,24714,Prepaid,03-09-2024
+ORD0028,,Food,Guwahati,East,14,2366,33124,COD,2024-05-08
+ORD0029,Divya ,Electronics,Kochi,South,4,716,2864,Prepaid,09-Oct-2024
+ORD0030,arjun,Books,Bhubaneswar,East,12,426,5112,Prepaid,08/08/2024
+ORD0031,priya,,Guwahati,East,6,1550,9300,COD,13/11/2024
+ORD0032,Sara,Home,Ahmedabad,West,2,3955,7910,COD,16/05/2024
+ORD0033,Meera,Books,Bangalore,South,9,668,6012,COD,13/01/2024
+ORD0034,Sara ,Sports,Kolkata,East,9,413,3717,COD,02-29-2024
+ORD0035,,Books,Mumbai,West,2,3672,7344,Wallet,"July 16, 2024"
+ORD0036,Karan,Sports,Hyderabad,South,11,1120,12320,COD,2024-08-08
+ORD0037,Divya ,Clothing,Guwahati,East,7,3544,24808,Prepaid,12-22-2024
+ORD0038,Rahul ,Books,Guwahati,East,7,3621,25347,COD,2024-10-07
+ORD0039,Sara ,Food,Ahmedabad,West,3,2424,7272,Prepaid,18-Sep-2024
+ORD0040,Arjun,Electronics,Bhubaneswar,East,8,3992,31936,Wallet,11/04/2024
+ORD0041,priya,Clothing,Kochi,South,1,973,973,Wallet,10-Sep-2024
+ORD0042,Sara,Home,Mumbai,West,5,3906,19530,COD,12/10/2024
+ORD0043,Vijay,Books,Surat,West,8,2371,18968,COD,22-Mar-2024
+ORD0044,Rahul,Books,Mumbai,West,11,4524,49764,Prepaid,26/05/2024
+ORD0045,Karan,Sports,Chennai,South,15,3506,52590,Wallet,31-Jul-2024
+ORD0046,karan,Books,Jaipur,North,13,3532,45916,Prepaid,2024-09-01
+ORD0047,vijay,Electronics,Ahmedabad,West,13,2853,37089,COD,19-May-2024
+ORD0048,Arjun,Electronics,Chennai,South,14,1211,16954,COD,"July 20, 2024"
+ORD0049,Meera,Books,Kochi,South,14,2166,30324,Prepaid,06-16-2024
+ORD0050,arjun,,Bhubaneswar,East,1,2125,2125,Prepaid,2024-11-28
+ORD0051,Vijay,Food,Mumbai,West,9,3121,28089,Prepaid,15/10/2024
+ORD0052,Arjun,Books,Hyderabad,South,19,3174,60306,Wallet,"February 25, 2024"
+ORD0053,Sara,Furniture,Chennai,South,19,436,8284,Wallet,12-22-2024
+ORD0054,Sara,Home,Kolkata,East,12,3866,46392,Wallet,03-Aug-2024
+ORD0055,Rahul,Books,Guwahati,East,8,809,6472,Wallet,26-Aug-2024
+ORD0056,Karan,Clothing,Pune,West,16,1837,29392,Wallet,15-Jan-2024
+ORD0057,ARJUN,Clothing,Kolkata,East,14,4102,57428,Wallet,21/09/2024
+ORD0058,Rahul ,Clothing,Surat,West,13,2093,27209,Wallet,2024-01-09
+ORD0059,karan,Food,Guwahati,East,15,2319,34785,COD,10-08-2024
+ORD0060,vijay,Books,Chandigarh,North,19,4397,83543,COD,08/04/2024
+ORD0061,Arjun,Food,Hyderabad,South,18,1136,20448,Wallet,04-01-2024
+ORD0062,Rahul ,Home,Kochi,South,16,3708,59328,COD,2024-02-22
+ORD0063,ARJUN,Sports,Delhi,North,2,1342,2684,Prepaid,24-Jul-2024
+ORD0064,priya,Furniture,Jaipur,North,17,3216,54672,COD,"November 06, 2024"
+ORD0065,Priya,Food,Kolkata,East,7,2267,15869,Prepaid,2024-11-08
+ORD0066,vijay,Books,Chennai,South,2,1996,3992,Prepaid,28-Jul-2024
+ORD0067,Priya,Home,Hyderabad,South,4,4561,18244,Prepaid,"November 16, 2024"
+ORD0068,Rahul ,Home,Delhi,North,4,3939,15756,Wallet,03-25-2024
+ORD0069,,Home,Surat,West,11,2151,23661,Wallet,"February 11, 2024"
+ORD0070,Sara ,Home,Lucknow,North,17,3722,63274,Wallet,2024-10-22
+ORD0071,MEERA,Books,Mumbai,West,11,956,10516,COD,08-28-2024
+ORD0072,Karan,Books,Mumbai,West,11,1049,11539,Prepaid,2024-08-20
+ORD0073,Divya,Books,Surat,West,20,4183,83660,Wallet,28/01/2024
+ORD0074,Sara,Electronics,Hyderabad,South,,,,COD,12-Aug-2024
+ORD0075,Sara,Food,Chandigarh,North,5,4182,20910,COD,28-Feb-2024
+ORD0076,Divya ,Clothing,Surat,West,13,1661,21593,Prepaid,04-May-2024
+ORD0077,Rahul,Furniture,Guwahati,East,1,2417,2417,Wallet,"June 23, 2024"
+ORD0078,vijay,Books,Ahmedabad,West,11,4621,50831,Prepaid,"August 16, 2024"
+ORD0079,arjun,Books,Kochi,South,16,3223,51568,Prepaid,29-Apr-2024
+ORD0080,Karan,Furniture,Mumbai,West,,,,Prepaid,"March 05, 2024"
+ORD0081,Rahul,Books,Ahmedabad,West,20,3356,67120,Wallet,08-Feb-2024
+ORD0082,Divya ,Electronics,Pune,West,20,660,13200,Prepaid,16-Nov-2024
+ORD0083,,Clothing,Jaipur,North,10,337,3370,COD,2024-02-20
+ORD0084,MEERA,Sports,Ahmedabad,West,6,1492,8952,Wallet,"May 05, 2024"
+ORD0085,priya,,Kochi,South,9,3864,34776,COD,25/10/2024
+ORD0086,Rahul ,Food,Chennai,South,14,2148,30072,COD,08-14-2024
+ORD0087,,Sports,Chandigarh,North,10,2518,25180,Prepaid,"July 14, 2024"
+ORD0088,karan,Clothing,Jaipur,North,7,2153,15071,Prepaid,26/05/2024
+ORD0089,arjun,Sports,Delhi,North,12,1176,14112,Prepaid,07-Jun-2024
+ORD0090,Divya,Sports,Bangalore,South,9,1447,13023,COD,10-03-2024
+ORD0091,sara,Furniture,Kolkata,East,8,3355,26840,COD,2024-08-27
+ORD0092,Vijay,Books,Lucknow,North,9,4888,43992,Wallet,2024-10-01
+ORD0093,Divya ,Books,Kochi,South,20,1913,38260,Wallet,"January 13, 2024"
+ORD0094,arjun,Electronics,Guwahati,East,10,4135,41350,COD,29/02/2024
+ORD0095,MEERA,Sports,Pune,West,5,3498,17490,COD,"December 09, 2024"
+ORD0096,Vijay,Clothing,Lucknow,North,12,913,10956,Wallet,21-Apr-2024
+ORD0097,Priya,Electronics,Kolkata,East,15,850,12750,Prepaid,07-22-2024
+ORD0098,Priya,Electronics,Lucknow,North,18,1797,32346,Prepaid,04/05/2024
+ORD0099,Divya ,,Lucknow,North,,,,Prepaid,15/03/2024
+ORD0100,arjun,Clothing,Kolkata,East,14,4409,61726,COD,03-30-2024
+ORD0101,arjun,Food,Jaipur,North,17,2570,43690,COD,14/09/2024
+ORD0102,vijay,Food,Surat,West,15,702,10530,Prepaid,2024-12-17
+ORD0103,Divya,Books,Patna,East,15,4241,63615,Wallet,"July 14, 2024"
+ORD0104,MEERA,Books,Kochi,South,15,3366,50490,Wallet,19/08/2024
+ORD0105,ARJUN,Electronics,Patna,East,3,863,2589,Prepaid,19-Mar-2024
+ORD0106,MEERA,Books,Lucknow,North,14,521,7294,Wallet,2024-12-09
+ORD0107,priya,Furniture,Bangalore,South,4,2968,11872,Wallet,02-Dec-2024
+ORD0108,,Electronics,Kochi,South,20,2290,45800,COD,"October 14, 2024"
+ORD0109,Meera,Electronics,Kolkata,East,5,351,1755,COD,02/04/2024
+ORD0110,Karan,Furniture,Bhubaneswar,East,19,4984,94696,Wallet,07-08-2024
+ORD0111,MEERA,Home,Delhi,North,20,3721,74420,COD,19-May-2024
+ORD0112,vijay,Sports,Mumbai,West,10,472,4720,Prepaid,"May 25, 2024"
+ORD0113,Rahul ,Books,Bhubaneswar,East,4,163,652,Wallet,03-11-2024
+ORD0114,arjun,Home,Hyderabad,South,1,3866,3866,Wallet,06-Feb-2024
+ORD0115,Meera,Electronics,Surat,West,11,1507,16577,COD,2024-05-28
+ORD0116,MEERA,Sports,Jaipur,North,13,4392,57096,Prepaid,24/02/2024
+ORD0117,Sara,Sports,Bhubaneswar,East,17,1688,28696,Wallet,"February 09, 2024"
+ORD0118,Rahul,Clothing,Bangalore,South,6,1352,8112,Wallet,22/02/2024
+ORD0119,Vijay,Food,Surat,West,19,2747,52193,Prepaid,"October 15, 2024"
+ORD0120,Rahul,Sports,Surat,West,2,2983,5966,Prepaid,11-19-2024
+ORD0121,Divya,Home,Patna,East,15,4854,72810,COD,2024-02-09
+ORD0122,Divya,Clothing,Hyderabad,South,2,3790,7580,Wallet,05-Nov-2024
+ORD0123,Vijay,Home,Chandigarh,North,17,4382,74494,COD,21/01/2024
+ORD0124,arjun,Furniture,Pune,West,11,639,7029,COD,"December 13, 2024"
+ORD0125,sara,Books,Hyderabad,South,10,3310,33100,Wallet,"February 11, 2024"
+ORD0126,ARJUN,Food,Pune,West,14,4265,59710,Prepaid,"March 06, 2024"
+ORD0127,sara,Clothing,Guwahati,East,3,2523,7569,Wallet,08/04/2024
+ORD0128,Meera,Clothing,Lucknow,North,6,1581,9486,Prepaid,12/11/2024
+ORD0129,priya,Home,Mumbai,West,20,2434,48680,Prepaid,07-29-2024
+ORD0130,Vijay,Home,Guwahati,East,10,3228,32280,Prepaid,04-09-2024
+ORD0131,karan,Sports,Hyderabad,South,4,4326,17304,COD,27-Jan-2024
+ORD0132,priya,Furniture,Ahmedabad,West,15,2963,44445,COD,2024-08-11
+ORD0133,priya,Electronics,Kochi,South,11,911,10021,Prepaid,02-11-2024
+ORD0134,vijay,,Lucknow,North,20,143,2860,Prepaid,29/08/2024
+ORD0135,Rahul ,Electronics,Mumbai,West,2,2053,4106,Prepaid,27/05/2024
+ORD0136,priya,Food,Mumbai,West,5,2486,12430,COD,"November 19, 2024"
+ORD0137,ARJUN,Sports,Chennai,South,,,,COD,09-25-2024
+ORD0138,Arjun,Books,Jaipur,North,3,2924,8772,Wallet,07-10-2024
+ORD0139,Divya ,Books,Bhubaneswar,East,6,3906,23436,Prepaid,01-23-2024
+ORD0140,Priya,Electronics,Jaipur,North,7,443,3101,Wallet,01-19-2024
+ORD0141,Rahul ,Books,Pune,West,2,2819,5638,COD,19/01/2024
+ORD0142,vijay,Food,Surat,West,16,3109,49744,Wallet,22/06/2024
+ORD0143,Sara ,Sports,Mumbai,West,10,2731,27310,COD,"August 08, 2024"
+ORD0144,karan,Home,Ahmedabad,West,2,2988,5976,Prepaid,19-Dec-2024
+ORD0145,,Electronics,Jaipur,North,5,3689,18445,COD,"July 05, 2024"
+ORD0146,sara,Food,Guwahati,East,15,3138,47070,Wallet,2024-10-17
+ORD0147,priya,Electronics,Guwahati,East,1,1624,1624,COD,06-09-2024
+ORD0148,Rahul ,Food,Guwahati,East,16,1739,27824,Wallet,"April 19, 2024"
+ORD0149,karan,Food,Mumbai,West,3,4605,13815,Wallet,12-15-2024
+ORD0150,Sara,,Hyderabad,South,5,2039,10195,COD,17/09/2024
+ORD0151,ARJUN,Books,Ahmedabad,West,13,4021,52273,Prepaid,2024-11-09
+ORD0152,Vijay,Home,Hyderabad,South,17,2922,49674,Wallet,2024-11-24
+ORD0153,arjun,Furniture,Bangalore,South,4,4344,17376,Wallet,"August 09, 2024"
+ORD0154,ARJUN,Books,Hyderabad,South,7,4612,32284,Prepaid,09-22-2024
+ORD0155,Karan,,Bangalore,South,19,437,8303,Wallet,"March 28, 2024"
+ORD0156,Arjun,Home,Bhubaneswar,East,18,2472,44496,Wallet,19-Oct-2024
+ORD0157,arjun,Clothing,Pune,West,15,3504,52560,COD,2024-08-20
+ORD0158,karan,Sports,Patna,East,18,969,17442,Prepaid,23/07/2024
+ORD0159,Meera,Furniture,Chennai,South,20,3525,70500,COD,01-26-2024
+ORD0160,Divya,Home,Bhubaneswar,East,16,2627,42032,COD,22-Mar-2024
+ORD0161,arjun,Electronics,Bangalore,South,10,4154,41540,COD,10-25-2024
+ORD0162,Rahul,Food,Delhi,North,12,3403,40836,Prepaid,08/08/2024
+ORD0163,Divya,Home,Patna,East,18,2391,43038,Prepaid,07-Feb-2024
+ORD0164,Divya ,Books,Jaipur,North,5,1730,8650,Prepaid,07-10-2024
+ORD0165,Vijay,Clothing,Hyderabad,South,20,4323,86460,COD,"August 30, 2024"
+ORD0166,Divya ,,Patna,East,19,2555,48545,Prepaid,"September 16, 2024"
+ORD0167,vijay,Books,Pune,West,19,4831,91789,Wallet,2024-12-18
+ORD0168,,Sports,Ahmedabad,West,4,1662,6648,Wallet,14/12/2024
+ORD0169,vijay,Furniture,Kochi,South,2,1231,2462,COD,"September 13, 2024"
+ORD0170,Divya ,Books,Pune,West,18,3002,54036,Wallet,29-Mar-2024
+ORD0171,Rahul,Sports,Guwahati,East,10,1942,19420,Wallet,08/04/2024
+ORD0172,karan,Sports,Kochi,South,9,2457,22113,COD,11-Jun-2024
+ORD0173,Rahul ,Food,Bhubaneswar,East,3,2937,8811,Prepaid,2024-05-28
+ORD0174,sara,Electronics,Hyderabad,South,20,4907,98140,Prepaid,10-14-2024
+ORD0175,Karan,Food,Chennai,South,16,923,14768,Prepaid,21-Feb-2024
+ORD0176,Rahul ,Books,Surat,West,10,584,5840,Wallet,01/09/2024
+ORD0177,arjun,Furniture,Chandigarh,North,13,4158,54054,COD,01/08/2024
+ORD0178,Sara,Books,Delhi,North,10,3822,38220,Prepaid,"June 01, 2024"
+ORD0179,Karan,,Pune,West,15,2207,33105,COD,2024-04-08
+ORD0180,MEERA,Sports,Bangalore,South,11,810,8910,COD,08-Nov-2024
+ORD0181,Meera,Clothing,Bhubaneswar,East,15,2287,34305,Prepaid,01-04-2024
+ORD0182,arjun,Food,Patna,East,4,3912,15648,Wallet,20/12/2024
+ORD0183,karan,Sports,Kolkata,East,8,1895,15160,Wallet,11-23-2024
+ORD0184,vijay,Furniture,Guwahati,East,18,1889,34002,Prepaid,"December 25, 2024"
+ORD0185,Sara,Electronics,Pune,West,18,4240,76320,Wallet,"February 09, 2024"
+ORD0186,vijay,Electronics,Mumbai,West,17,3749,63733,COD,14/12/2024
+ORD0187,Arjun,Home,Jaipur,North,9,124,1116,COD,12-10-2024
+ORD0188,arjun,Books,Delhi,North,14,1574,22036,Wallet,05-Feb-2024
+ORD0189,Meera,Home,Pune,West,3,4517,13551,Wallet,14-Jul-2024
+ORD0190,Arjun,Books,Ahmedabad,West,15,4560,68400,COD,2024-04-24
+ORD0191,Sara,Electronics,Bhubaneswar,East,14,228,3192,COD,21/05/2024
+ORD0192,Vijay,Clothing,Chandigarh,North,18,1879,33822,COD,23-Jan-2024
+ORD0193,Karan,Clothing,Hyderabad,South,10,1273,12730,COD,"October 22, 2024"
+ORD0194,Divya ,Home,Chandigarh,North,2,2921,5842,COD,16-Nov-2024
+ORD0195,Meera,Clothing,Surat,West,18,3979,71622,Prepaid,03-17-2024
+ORD0196,MEERA,Sports,Mumbai,West,17,1198,20366,Prepaid,14-Oct-2024
+ORD0197,Priya,Electronics,Pune,West,9,3189,28701,Prepaid,"February 17, 2024"
+ORD0198,Rahul ,Electronics,Kochi,South,7,1656,11592,COD,04-16-2024
+ORD0199,Divya ,Books,Bangalore,South,10,3218,32180,COD,22/07/2024
+ORD0200,Karan,Clothing,Surat,West,12,2663,31956,Prepaid,20-Feb-2024
+ORD0201,MEERA,Books,Lucknow,North,5,1707,8535,COD,"October 10, 2024"
+ORD0202,Vijay,Clothing,Patna,East,12,1486,17832,Wallet,07-Sep-2024
+ORD0203,Arjun,Home,Delhi,North,5,1995,9975,COD,2024-02-08
+ORD0204,,Food,Kolkata,East,,,,Wallet,"November 12, 2024"
+ORD0205,MEERA,Furniture,Patna,East,6,976,5856,Wallet,"January 09, 2024"
+ORD0206,ARJUN,Books,Patna,East,13,3860,50180,Wallet,16-May-2024
+ORD0207,Meera,,Delhi,North,18,3999,71982,COD,17-Feb-2024
+ORD0208,Divya,Electronics,Pune,West,8,1831,14648,COD,2024-10-16
+ORD0209,Divya ,Sports,Delhi,North,2,1569,3138,Wallet,12-16-2024
+ORD0210,Sara ,Sports,Kochi,South,8,4742,37936,COD,02-09-2024
+ORD0211,Divya,Food,Ahmedabad,West,12,539,6468,Wallet,2024-12-18
+ORD0212,Vijay,Home,Pune,West,8,3014,24112,Wallet,01-16-2024
+ORD0213,priya,Food,Mumbai,West,3,772,2316,Prepaid,11-12-2024
+ORD0214,ARJUN,Electronics,Pune,West,10,3743,37430,Prepaid,2024-07-03
+ORD0215,Divya,Home,Surat,West,4,315,1260,COD,"October 12, 2024"
+ORD0216,Meera,Furniture,Mumbai,West,3,4683,14049,Prepaid,29-May-2024
+ORD0217,Rahul ,Books,Ahmedabad,West,16,1295,20720,COD,03-12-2024
+ORD0218,vijay,Sports,Lucknow,North,,,,COD,08/05/2024
+ORD0219,Karan,Home,Guwahati,East,20,1215,24300,COD,17-Jun-2024
+ORD0220,Rahul ,Food,Bhubaneswar,East,16,4817,77072,COD,07-22-2024
+ORD0221,Divya ,Clothing,Kolkata,East,18,320,5760,COD,15/10/2024
+ORD0222,sara,Food,Kolkata,East,10,2082,20820,COD,28-Jul-2024
+ORD0223,Meera,Sports,Jaipur,North,17,3526,59942,Wallet,02-Nov-2024
+ORD0224,Sara ,Food,Delhi,North,20,462,9240,COD,05-07-2024
+ORD0225,Rahul,Clothing,Mumbai,West,17,4349,73933,COD,2024-01-06
+ORD0226,Divya,Clothing,Surat,West,12,301,3612,Prepaid,"December 13, 2024"
+ORD0227,Karan,Home,Chandigarh,North,7,4368,30576,Wallet,06-27-2024
+ORD0228,arjun,Furniture,Pune,West,4,285,1140,Prepaid,02-04-2024
+ORD0229,Karan,Sports,Bangalore,South,14,3885,54390,Wallet,09/10/2024
+ORD0230,Priya,Home,Surat,West,19,3618,68742,Wallet,"January 15, 2024"
+ORD0231,karan,Books,Delhi,North,7,3848,26936,Wallet,01/10/2024
+ORD0232,Sara,Books,Guwahati,East,12,3850,46200,COD,08-Nov-2024
+ORD0233,priya,Books,Chandigarh,North,4,1599,6396,Wallet,2024-06-09
+ORD0234,vijay,Food,Kochi,South,18,1519,27342,COD,04/08/2024
+ORD0235,vijay,Clothing,Mumbai,West,7,3245,22715,Wallet,2024-07-02
+ORD0236,,Clothing,Surat,West,3,4731,14193,COD,29-Dec-2024
+ORD0237,vijay,Sports,Hyderabad,South,17,1027,17459,COD,27-Mar-2024
+ORD0238,MEERA,,Jaipur,North,8,2538,20304,Prepaid,06/10/2024
+ORD0239,karan,Furniture,Mumbai,West,20,3607,72140,Prepaid,01/05/2024
+ORD0240,Divya ,Clothing,Lucknow,North,11,2497,27467,Wallet,09-29-2024
+ORD0241,Rahul,Furniture,Chandigarh,North,5,1187,5935,Wallet,2024-07-29
+ORD0242,Rahul,Food,Surat,West,14,3173,44422,Prepaid,"March 13, 2024"
+ORD0243,,Home,Pune,West,11,4867,53537,Wallet,12-21-2024
+ORD0244,Meera,Clothing,Pune,West,14,1835,25690,Wallet,"February 02, 2024"
+ORD0245,arjun,Electronics,Kochi,South,15,233,3495,Prepaid,2024-06-24
+ORD0246,Rahul ,Clothing,Ahmedabad,West,9,864,7776,Wallet,18/12/2024
+ORD0247,,Home,Chennai,South,3,879,2637,Prepaid,07-21-2024
+ORD0248,Sara,Furniture,Mumbai,West,14,1182,16548,Prepaid,01-05-2024
+ORD0249,sara,Home,Lucknow,North,5,1270,6350,Prepaid,07-07-2024
+ORD0250,MEERA,Sports,Pune,West,15,1879,28185,Wallet,19/04/2024
+ORD0251,sara,Clothing,Pune,West,9,790,7110,COD,08-07-2024
+ORD0252,Divya,Clothing,Lucknow,North,13,2521,32773,Prepaid,"April 15, 2024"
+ORD0253,vijay,Food,Surat,West,20,681,13620,COD,27/02/2024
+ORD0254,karan,Sports,Kochi,South,,,,Prepaid,18-Oct-2024
+ORD0255,arjun,Furniture,Lucknow,North,13,4250,55250,COD,2024-04-20
+ORD0256,Divya ,Sports,Mumbai,West,5,2373,11865,Prepaid,"November 23, 2024"
+ORD0257,Rahul ,Food,Guwahati,East,14,2054,28756,COD,2024-10-27
+ORD0258,Sara,Electronics,Lucknow,North,5,192,960,Wallet,07/12/2024
+ORD0259,Rahul,Food,Bhubaneswar,East,4,340,1360,COD,09/07/2024
+ORD0260,karan,Electronics,Jaipur,North,16,4743,75888,Wallet,"August 21, 2024"
+ORD0261,,Furniture,Chandigarh,North,1,2103,2103,Prepaid,2024-09-17
+ORD0262,priya,Home,Jaipur,North,11,2322,25542,Wallet,04-24-2024
+ORD0263,arjun,Home,Chandigarh,North,3,3910,11730,Prepaid,"April 24, 2024"
+ORD0264,Rahul ,Sports,Mumbai,West,10,2087,20870,Prepaid,07/07/2024
+ORD0265,Arjun,Clothing,Bangalore,South,,,,COD,04-Jan-2024
+ORD0266,Priya,Sports,Jaipur,North,8,3539,28312,Wallet,2024-06-06
+ORD0267,Divya,Home,Kolkata,East,12,3855,46260,Prepaid,23/01/2024
+ORD0268,arjun,Home,Mumbai,West,5,2039,10195,COD,"October 30, 2024"
+ORD0269,priya,Electronics,Patna,East,7,1215,8505,Prepaid,08-19-2024
+ORD0270,Sara,Sports,Surat,West,12,1800,21600,Prepaid,09-Jun-2024
+ORD0271,arjun,Clothing,Hyderabad,South,11,1315,14465,Wallet,"December 26, 2024"
+ORD0272,Arjun,Home,Lucknow,North,15,4654,69810,Prepaid,13/05/2024
+ORD0273,sara,Clothing,Delhi,North,13,3149,40937,Wallet,01/02/2024
+ORD0274,Priya,Food,Kolkata,East,15,1155,17325,Prepaid,2024-01-12
+ORD0275,,Furniture,Jaipur,North,13,4164,54132,Prepaid,26/01/2024
+ORD0276,sara,Electronics,Hyderabad,South,20,2113,42260,COD,23-May-2024
+ORD0277,sara,Home,Delhi,North,7,4407,30849,Prepaid,23-May-2024
+ORD0278,vijay,Books,Pune,West,,,,Wallet,"September 02, 2024"
+ORD0279,vijay,Sports,Chennai,South,12,4884,58608,Wallet,2024-05-23
+ORD0280,priya,Sports,Hyderabad,South,13,3006,39078,Prepaid,2024-09-30
+ORD0281,karan,Sports,Patna,East,19,1264,24016,COD,2024-10-29
+ORD0282,,Electronics,Bhubaneswar,East,8,1892,15136,Wallet,2024-09-08
+ORD0283,Karan,Electronics,Bangalore,South,1,1310,1310,Wallet,23/06/2024
+ORD0284,Sara,Books,Kolkata,East,10,2742,27420,Wallet,10-Jul-2024
+ORD0285,karan,Clothing,Pune,West,19,1536,29184,Prepaid,"March 30, 2024"
+ORD0286,Sara ,Sports,Jaipur,North,11,1909,20999,COD,2024-10-17
+ORD0287,Sara ,Food,Chandigarh,North,3,2850,8550,Prepaid,06-26-2024
+ORD0288,arjun,Home,Patna,East,15,3537,53055,COD,2024-02-25
+ORD0289,priya,,Guwahati,East,,,,COD,21-Feb-2024
+ORD0290,Meera,Clothing,Delhi,North,3,4581,13743,Wallet,24/06/2024
+ORD0291,MEERA,Clothing,Mumbai,West,2,929,1858,Wallet,08/08/2024
+ORD0292,Sara,Electronics,Patna,East,13,4783,62179,Prepaid,01/06/2024
+ORD0293,vijay,Clothing,Mumbai,West,4,310,1240,COD,"May 30, 2024"
+ORD0294,vijay,Food,Lucknow,North,9,846,7614,COD,22-Jul-2024
+ORD0295,Rahul,Home,Bhubaneswar,East,15,2257,33855,Wallet,2024-08-16
+ORD0296,Divya ,Home,Delhi,North,19,1963,37297,COD,12-08-2024
+ORD0297,ARJUN,Home,Ahmedabad,West,2,4213,8426,Wallet,08-31-2024
+ORD0298,,Clothing,Chennai,South,7,1133,7931,Prepaid,17/08/2024
+ORD0299,ARJUN,Home,Hyderabad,South,18,3355,60390,Prepaid,2024-06-12
+ORD0300,sara,Sports,Mumbai,West,19,4873,92587,Wallet,31/07/2024
+ORD0177,arjun,Furniture,Chandigarh,North,13,4158,54054,COD,01/08/2024
+ORD0180,MEERA,Sports,Bangalore,South,11,810,8910,COD,08-Nov-2024
+ORD0148,Rahul ,Food,Guwahati,East,16,1739,27824,Wallet,"April 19, 2024"
+ORD0025,Sara,Electronics,Jaipur,North,18,1846,33228,Prepaid,"November 14, 2024"
+ORD0153,arjun,Furniture,Bangalore,South,4,4344,17376,Wallet,"August 09, 2024"
+ORD0165,Vijay,Clothing,Hyderabad,South,20,4323,86460,COD,"August 30, 2024"
+ORD0077,Rahul,Furniture,Guwahati,East,1,2417,2417,Wallet,"June 23, 2024"
+ORD0010,Vijay,,Mumbai,West,9,4632,41688,Wallet,16-Jul-2024
+ORD0188,arjun,Books,Delhi,North,14,1574,22036,Wallet,05-Feb-2024
+ORD0148,Rahul ,Food,Guwahati,East,16,1739,27824,Wallet,"April 19, 2024"
