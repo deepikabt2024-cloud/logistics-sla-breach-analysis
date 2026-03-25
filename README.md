@@ -71,6 +71,7 @@ Files
 ├── dashboard.pbix                # Power BI dashboard file
 └── README.md
 
-Author
-Deepika Y — Aspiring MIS & Data Analyst, Bangalore
-LinkedIn | GitHub
+
+## Author
+**Deepika Y** — Aspiring MIS & Data Analyst, Bangalore  
+[LinkedIn](https://www.linkedin.com/in/deepika2002-y/) | [GitHub](https://github.com/deepikabt2024-cloud)
