@@ -60,7 +60,7 @@ Implement driver benchmarking relative to region and category — not absolute b
 
 Dashboard Preview
 Built in Power BI — showing breach rate by region, category, and driver with interactive region filter.
-Show Image
+[![Logistics SLA Dashboard](dashboard.png)](dashboard.png)
 
 Files
 ├── logistics_orders.csv          # Raw orders data
